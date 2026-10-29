@@ -22,4 +22,6 @@ Notes are written in Azerbaijani. Every note follows the same shape:
 
 ## Topics
 
-_No notes yet. The list grows by one line per day._
+### 01 — Fundamentals
+
+- [Coordinates and EPSG codes](01-esaslar/01-koordinat-ve-epsg.md)
