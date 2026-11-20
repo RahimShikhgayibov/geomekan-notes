@@ -25,3 +25,7 @@ Notes are written in Azerbaijani. Every note follows the same shape:
 ### 01 — Fundamentals
 
 - [Coordinates and EPSG codes](01-esaslar/01-koordinat-ve-epsg.md)
+
+### 02 — Vector & raster
+
+- [Vektor nədir](02-vektor-raster/01-vektor-nedir.md)
