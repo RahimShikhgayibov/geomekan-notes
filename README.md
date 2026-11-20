@@ -30,3 +30,4 @@ Notes are written in Azerbaijani. Every note follows the same shape:
 
 - [Vektor nədir](02-vektor-raster/01-vektor-nedir.md)
 - [Raster nədir](02-vektor-raster/02-raster-nedir.md)
+- [Vektor və rasterin fərqi](02-vektor-raster/03-vektor-ve-raster-ferqi.md)
